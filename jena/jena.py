@@ -11,7 +11,7 @@ class NV40:
         timeout (float, optional): serial timeout in seconds
         closed_loop (bool, optional): Operation mode. True for closed loop, False for open loop.
     
-    Example use:
+    Example use::
 
         device = jena.NV40('COM3')
         device.set_position(10)
