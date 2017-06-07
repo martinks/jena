@@ -1,0 +1,3 @@
+This package provides a wrapper for serial communication with Jena piezoelectric controllers. 
+
+Currently, only support for the NV40/1CL(E) controller is implemented.
