@@ -5,7 +5,7 @@ with open("README", 'r') as f:
 
 setup(
    name='jena',
-   version='0.1',
+   version='0.12',
    description='Wrapper for serial communication with Jena piezoelectric controllers',
    license="MIT",
    long_description=long_description,
