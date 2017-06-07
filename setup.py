@@ -1,11 +1,11 @@
 from setuptools import setup
 
-with open("README", 'r') as f:
+with open("README.md", 'r') as f:
     long_description = f.read()
 
 setup(
    name='jena',
-   version='0.12',
+   version='0.13',
    description='Wrapper for serial communication with Jena piezoelectric controllers',
    license="MIT",
    long_description=long_description,
