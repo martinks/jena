@@ -13,5 +13,5 @@ setup(
    author_email='martinkleinschaarsberg@gmail.com',
    url="http://readthedocs.org/projects/jena/",
    packages=['jena'],  #same as name
-   install_requires=['serial', 'numpy>=1.7.0','pytest'], #external packages as dependencies
+   install_requires=['pyserial', 'numpy>=1.7.0','pytest'], #external packages as dependencies
 )
